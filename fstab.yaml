@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p106302-e1241654.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/forms-edge-delivery-demo2/main
+    type: "markup"
+    suffix: ".html"
